@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+
+.content-item{
+    display: flex;
+}
+.benefits{
+    background-color:rgb(171, 197, 169);
+    color:black;    
+    
+}
+.login{
+    background-color: lightpink;
+    float: inline-end;
+}
